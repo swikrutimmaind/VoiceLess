@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105549672529",
+    "project_id": "voiceless-ccca3",
+    "storage_bucket": "voiceless-ccca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105549672529:android:203d06d6951987c8094870",
+        "android_client_info": {
+          "package_name": "com.example.voiceless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105549672529-t9k4319ftnok2lhpuiuqe1leuo5tbbt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOATunjG7fWDSHnye4tCDdCs66jxufPhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105549672529-t9k4319ftnok2lhpuiuqe1leuo5tbbt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
